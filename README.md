@@ -14,7 +14,7 @@ This project presents an interactive Power BI dashboard analyzing Blinkit-style 
 - DAX
 - Data Cleaning & Modeling
 
-##Dashboard
+## Dashboard
 <img width="630" height="355" alt="1000093015" src="https://github.com/user-attachments/assets/6e94f56a-7781-4faf-acb7-4758f020e8b2" />
 
 ## Author
